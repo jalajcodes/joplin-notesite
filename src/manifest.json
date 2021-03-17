@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.jalaj.notesite",
+	"app_min_version": "1.8",
+	"version": "1.0.0",
+	"name": "NoteSite",
+	"description": "Plugin to generate static site using notes",
+	"author": "Jalaj",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": []
+}
